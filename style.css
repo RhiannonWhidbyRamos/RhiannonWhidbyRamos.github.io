@@ -44,16 +44,19 @@ img{
 #eye{
   margin:0px 550px;
    width:200px;
+  height:200px;
 }
 #eye2{
   margin:0px 300px;
   width:200px;
+  height:200px;
     
 }
 
 #eye3{
   margin:0px 50px;
-  width:200px
+  width:200px;
+  height:200px;
 }
 
 #blood{
