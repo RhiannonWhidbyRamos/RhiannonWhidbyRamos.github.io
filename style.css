@@ -42,24 +42,35 @@ img{
 }
 
 #eye{
-  margin:0px 200px;
-   width:200px;
-  height:200px;
+  margin:0px 550px;
+   width:50px;
 }
 #eye2{
   margin:0px 300px;
-  width:200px;
-  height:200px;
+  width:50px;
     
 }
 
 #eye3{
   margin:0px 50px;
-  width:200px;
-  height:200px;
+  width:50px
 }
 
 #blood{
   margin:0px 330px;
   width:300px;
+}
+
+#NextPage {
+  margin: 0 auto;
+  position: relative;
+  top: -150px;
+  left: 60px;
+}
+
+#Page3 {
+  margin: 0 auto;
+  position: relative;
+  top: -150px;
+  left: 60px;
 }
