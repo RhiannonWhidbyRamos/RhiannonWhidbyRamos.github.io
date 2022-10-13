@@ -43,20 +43,20 @@ img{
 
 #eye{
   margin:0px 550px;
-   width:100px;
-  height:100px;
+   width:fit-content;
+  height:fit-content;
 }
 #eye2{
   margin:0px 300px;
-  width:100px;
-  height:100px;
+  width:fit-content;
+  height:fit-content;
     
 }
 
 #eye3{
   margin:0px 50px;
-  width:100px;
-  height:100;
+  width:fit-content;
+  height:fit-content;
 }
 
 #blood{
