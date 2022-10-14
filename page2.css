@@ -38,9 +38,12 @@ img{
   margin:0 auto;
 }
 
-#
+#lanter{
+width:300px;
+  marging: 0px 300px;
+}
 
 #smiel{
   width:300px;
-  margin:-100
+  margin:0px -100px;
 }
