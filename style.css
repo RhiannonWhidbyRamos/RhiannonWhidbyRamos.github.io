@@ -66,11 +66,5 @@ img{
   position: relative;
   top: -150px;
   left: 60px;
-}
-
-#Page3 {
-  margin: 0 auto;
-  position: relative;
-  top: -150px;
-  left: 60px;
+  color: red;
 }
